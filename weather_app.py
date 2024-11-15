@@ -76,7 +76,7 @@ root.geometry("500x400")
 root.configure(bg="light blue")
 
 # Set API key
-api_key = "fcdce3c23e792084b0dd11a1bd4da269"
+api_key = "YOUR_API_KEY_HERE!"
 
 # Input for city name
 city_label = tk.Label(root, text="Enter City Name:", bg="light blue", fg="black", font=("Arial", 12))
