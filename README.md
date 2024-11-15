@@ -39,9 +39,7 @@ Run the script:
 python weather_app.py
 Enter the city name in the application to fetch weather data.
 
-Example Data
-yaml
-Copy code
+# EXAMPLE DATA
 Enter city name: Toronto
 Temperature: 7.8°C
 Atmospheric Pressure: 1016 hPa
