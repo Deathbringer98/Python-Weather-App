@@ -43,6 +43,11 @@ Atmospheric Pressure: 1012 hPa
 Humidity: 72%
 Weather Description: light rain
 ]
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+# PICS 
+
+
+![v](https://github.com/user-attachments/assets/d49648f2-26f7-4bea-8ceb-0ed271d745fe)
+
+
+![Screenshot 2024-11-15 183746](https://github.com/user-attachments/assets/d1fba1c7-16c1-4c2e-947f-597daf370c6f)
